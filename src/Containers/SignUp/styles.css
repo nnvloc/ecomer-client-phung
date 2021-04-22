@@ -1,0 +1,16 @@
+/* Signup page */
+
+.signup-page {
+  /* 100% screen - height of header and footer */
+  min-height: calc(100vh - 90px - 66px);
+  margin-top: 66px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.error {
+  color: red;
+  font-size: 12px;
+  margin-top: 10px;
+}

@@ -1,0 +1,26 @@
+.footer-container {
+  height: 90px;
+  display: flex;
+  align-items: center;
+  background-color: #85b043;
+  text-align: center;
+}
+
+.main-footer {
+  padding-bottom: 30px;
+  border-bottom: 1px solid #fff;
+}
+
+.footer-infor > a {
+  font-size: 1.6em;
+  font-weight: bold;
+  color: #fff;
+  padding: 8px;
+}
+
+.footer-infor > a:hover {
+  border-radius: 3px;
+  text-decoration: none;
+  color: #85b043;
+  background-color: #fff;
+}

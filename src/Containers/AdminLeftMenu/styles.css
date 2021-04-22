@@ -1,0 +1,13 @@
+.admin-container .left-menu {
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+  min-height: 100vh;
+  background-color: rgb(144, 189, 248);
+}
+
+.left-menu .menu-link {
+  padding: 20px;
+  width: 100%;
+  color: white;
+}
